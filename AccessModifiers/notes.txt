@@ -1,0 +1,14 @@
+Access Modifiers 
+    1.private 
+    2.public 
+    3.protected
+    4.bydefault it is package 
+
+
+class can be just Package and public .
+
+
+private within the class
+public , can be access every where 
+protected -> used in inheritance and can be extended 
+default --> within package

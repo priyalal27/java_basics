@@ -1,0 +1,17 @@
+Types 
+1. Primitive Types 
+   byte short int char boolean float double
+2. Reference Types
+   array class string
+
+
+
+Type Casting 
+1. Primitive
+    Implicit lower--> higher
+    Expilict higher--> Lower
+2. Reference
+    Implicit child--> parent
+    Expilict parent--> child
+  
+    

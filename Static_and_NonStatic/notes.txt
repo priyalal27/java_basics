@@ -1,0 +1,9 @@
+There are 4 different non static members .
+    1. Non Static variable
+    2. Non static method 
+    3. Non static block 
+    4. Constructor 
+
+To access above 4 , we need to create object of the class .
+Also we can create the object under any static member : main method , static block or user defined method .
+

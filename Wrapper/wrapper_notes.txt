@@ -1,0 +1,23 @@
+1. Primitive Type -----> Object Type
+   we need wrapper class to change from primitive to object type 
+
+
+Primitive ---> Wrapper class
+byte --> Byte
+short --> Short
+int --> Integer
+long --> Long
+float --> Float
+double --> Double
+Char --> Character
+
+Primitive --> Object : This is called boxing 
+Object --> Primitive : This is called unboxing
+
+Also , 
+Primitive --> String 
+String --> Primitive 
+Object --> String 
+String --> Object 
+
+
