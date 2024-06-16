@@ -1,0 +1,8 @@
+two types of polymorphism : 
+1. static binding : Method overloading ]
+    same method name but different signature 
+    also called compile time polymorphism
+
+2. dynamic binding : 
+    inheritance , parent class object refers to child class reference .
+    also called run time polymorphism. 
