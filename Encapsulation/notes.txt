@@ -1,0 +1,7 @@
+Encapsulation is the binding data and code together .
+                    or 
+Properties and method together .
+
+Advantages : 
+1. Security 
+2. Easy Enhamcement 
