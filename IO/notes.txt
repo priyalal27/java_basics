@@ -1,0 +1,13 @@
+ In Java, I/O streams are essential for reading and writing data from various sources and destinations. Let’s explore the basics:
+
+What Are I/O Streams?
+I/O streams represent input sources or output destinations.
+They can handle different types of data, including bytes, characters, and objects.
+Streams can connect to files, devices, network sockets, or even memory arrays.
+Types of Streams:
+Byte Streams: Handle raw binary data (e.g., reading/writing files).
+Character Streams: Process character-based data (e.g., text files).
+Object Streams: Work with serialized objects (e.g., saving/loading Java objects).
+Common Operations:
+Reading: Programs use an input stream to read data from a source.
+Writing: Programs use an output stream to write data to a destination.

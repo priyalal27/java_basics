@@ -1,0 +1,17 @@
+What Is String Immutability?
+In Java, a string is considered immutable once it has been created.
+This means that once a string object is assigned a value, its content cannot be changed.
+When you perform operations on a string (such as concatenation or substring),
+ a new string is created rather than modifying the original one.
+
+
+Why Are Strings Immutable?
+Caching: One of the key benefits of keeping strings immutable is caching.
+ Java maintains a special memory region called the String pool where it stores string literals.
+  Different string variables referring to the same literal share the same object in the pool, saving memory.
+Security: Strings are widely used to store sensitive information (e.g., usernames, passwords).
+ By making strings immutable, Java ensures that their content cannot be altered, enhancing security.
+Thread Safety: Immutable objects (including strings) are inherently thread-safe.
+ Multiple threads can safely access the same string without causing issues.
+Performance: Immutability allows the JVM to optimize memory usage and
+ avoid unnecessary string copies.
