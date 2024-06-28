@@ -1,7 +1,7 @@
-public class Logic1 {
+public class MapLogic1 {
 
     public static void main(String[] args) {
-        Logic1 l= new Logic1();
+        MapLogic1 l= new MapLogic1();
         l.secondhighestnumber();
     }
 
